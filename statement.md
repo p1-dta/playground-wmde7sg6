@@ -14,5 +14,4 @@ Dans la fenètre sous ce paragraphe se trouve écrit du texte respectant la synt
  sur le bouton "RUN" :
 
 ```python runnable
-print('Hello World!')
-```
+print('Hello World!')```
