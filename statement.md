@@ -14,4 +14,16 @@ Dans la fenètre sous ce paragraphe se trouve écrit du texte respectant la synt
  sur le bouton "RUN" :
 
 ```python runnable
-print('Hello World!')```
+print('Hello World!')
+```
+
+## Qu'est ce que du code ?
+
+Pour écrire correctement en Python (ce qu'on définit par "faire du Python"), il faut connaître et comprendre trois points primordiaux 
+de ce qui compose le code :
+
+1. La **syntaxe**, l’ensemble des règles formelles qui définissent comment écrire du code Python. La syntaxe détermine si le code est correctement formé.
+2. Le **lexique**, le vocabulaire du langage. Le lexique détermine quels éléments peuvent être utilisés dans une instruction.
+3. La **sémantique**, le sens du code, ce qu’il fait réellement. Deux lignes de code peuvent avoir une syntaxe correcte et utiliser le bon lexique, 
+    mais produire des effets très différents. La sémantique couvre la logique des programmes, les comportements des fonctions, 
+    la manière dont les objets interagissent, et les conséquences de chaque instruction.
