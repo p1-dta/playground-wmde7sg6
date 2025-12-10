@@ -34,7 +34,7 @@ Pour le code `print('Hello World!')`, voici en détails chacune des trois caract
 ```python runnable
 import ast
 
-print(ast.dump(ast.parse('print("hello world")'), indent=4))
+print(ast.dump(ast.parse('print("hello world")').body.pop(), indent=2))
 ```
 
 2. **Lexique** :
