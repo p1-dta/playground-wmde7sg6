@@ -11,7 +11,7 @@ Par contre, pour exécuter le code Python que l'on peut écrire, c'est moins sim
 et d'exécuter les instructions qui s'y trouve. Pour ça, il faut installer ce qu'on appelle l'**interpréteur** Python.
 
 Par chance, ce cours permet déjà de faire les deux, écrire et exécuter le code Python que vous pouvez écrire directement dans votre navigateur.
-Pour ce faire, appuyez sur la petite flèche afin de demander à votre navigateur de lancer le code Python qui se trouve dans la petite fenètre 
+Pour ce faire, appuyez sur le bouton "RUN" afin de demander à votre navigateur de lancer le code Python qui se trouve dans la petite fenètre 
 d'édition de code suivante :
 
 ```python runnable
