@@ -30,5 +30,12 @@ Le code se décompose en trois concepts :
 Pour le code `print('Hello World!')`, voici en détails chacune des trois caractéristiques vue précédemment :
 
 1. **Syntaxe** : ce code est une expression (*Expr*) d'appel (*Call*)
+
+```python runnable
+import ast
+
+print(ast.dump(ast.parse('print("hello world")'), indent=4))
+```
+
 2. **Lexique** :
 3. **Sémantique** :
