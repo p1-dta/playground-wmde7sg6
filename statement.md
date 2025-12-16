@@ -21,11 +21,14 @@ print('Hello World!')
 
 Le code se décompose en trois concepts :
 
-1. La **syntaxe**, l’ensemble des règles formelles qui définissent comment écrire du code Python. La syntaxe détermine si le code est correctement formé.
-2. Le **lexique**, le vocabulaire du langage. Le lexique détermine quels éléments peuvent être utilisés dans une instruction.
-3. La **sémantique**, le sens du code, ce qu’il fait réellement. Deux lignes de code peuvent avoir une syntaxe correcte et utiliser le bon lexique, 
+1. La [**syntaxe**](https://fr.wikipedia.org/wiki/Syntaxe), l’ensemble des règles formelles qui définissent comment écrire du code Python. La syntaxe détermine si le code est correctement formé.
+2. Le [**lexique**](https://fr.wikipedia.org/wiki/Lexique), le vocabulaire du langage. Le lexique détermine quels éléments peuvent être utilisés dans une instruction.
+3. La [**sémantique**](https://fr.wikipedia.org/wiki/S%C3%A9mantique), le sens du code, ce qu’il fait réellement. Deux lignes de code peuvent avoir une syntaxe correcte et utiliser le bon lexique, 
     mais produire des effets très différents. La sémantique couvre la logique des programmes, les comportements des fonctions, 
     la manière dont les objets interagissent, et les conséquences de chaque instruction.
+
+> On distingue la syntaxe, qui concerne les expressions [les mots], de la sémantique, 
+> qui concerne ce qui est visé par les expressions [le sens, la signification/les choses]. 
 
 Pour le code `print('Hello World!')`, voici en détails chacune des trois caractéristiques vue précédemment :
 
