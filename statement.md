@@ -37,7 +37,7 @@ Pour le code `print('Hello World!')`, voici en détails chacune des trois caract
     la valeur est `'hello world!'`.
 2. **Lexique** : Il est composé de 4 mots, ou briques lexicales : `print`, `(` et `)`, et `'Hello World!'`.
 3. **Sémantique** : Et ce qu'il signifie dans ce cas est simple : afficher le texte `Hello World!` dans 
-    la [sortie standard](https://fr.wikipedia.org/wiki/Flux_standard#Sortie_standard), ici la fenêtre de résultat de votre navigateur.
+    la [sortie standard](https://fr.wikipedia.org/wiki/Flux_standard#Sortie_standard), ici la fenêtre de résultat sur votre navigateur.
 
 Changez un élément de la syntaxe, en retirant par exemple une parenthèse 
 (toute parenthèse ouverte doit être fermée, et toute parenthèse fermante doit avoir été ouverte préalablement !), 
