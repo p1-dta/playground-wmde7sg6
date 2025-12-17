@@ -1,3 +1,7 @@
+```python runnable
+input('test')
+```
+
 # Python, où commencer ?
 
 Vous voulez apprendre à coder en Python ? 
